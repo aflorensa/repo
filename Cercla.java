@@ -1,5 +1,8 @@
 public class Cercle {
-
+	public static void main(String[] args)throws IOException{
+		Cercle c1 = new Cercle();
+	}
+	
 private float x;
 private float y;
 
