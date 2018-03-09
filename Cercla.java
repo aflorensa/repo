@@ -2,7 +2,7 @@ public class Cercle {
 
 private float x;
 private float y;
-
+//canvis
 public Cercle(float xx, float yy){
 	x=xx;
 	y=yy;
