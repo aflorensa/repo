@@ -5,7 +5,7 @@ public class Cercle {
 	
 private float x;
 private float y;
-
+//canvis
 public Cercle(float xx, float yy){
 	x=xx;
 	y=yy;
@@ -20,6 +20,7 @@ public Cercle (Cercle c) {
 	this.y = c.y;
 }
 
+//Setter & Getter
 public void setX(float x) {
 	this.x = x;
 }
